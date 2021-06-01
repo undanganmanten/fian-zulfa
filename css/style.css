@@ -810,7 +810,7 @@ input[type="radio"] {
 .wish-img{
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 
 .wish-img img{
