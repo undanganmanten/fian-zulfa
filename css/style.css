@@ -654,7 +654,7 @@ img{
 
 .slideshow-container {
   width : 100vw;
-  height : 100vh; 
+  height : max-content; 
   margin: auto;
 }
 
@@ -810,7 +810,7 @@ input[type="radio"] {
 .wish-img{
   display: flex;
   justify-content: center;
-  margin-top: -200px;
+  margin-top: 20px;
 }
 
 .wish-img img{
