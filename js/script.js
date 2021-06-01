@@ -15,7 +15,7 @@ function playing(){
 
 AOS.init();
 
-var countDownDate = new Date("Jun 3, 2021 08:00:00").getTime();
+var countDownDate = new Date("Jun 3, 2021 07:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
